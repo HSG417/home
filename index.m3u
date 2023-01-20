@@ -5,5 +5,5 @@ https://livevideo.tegnadigital.com/wfaa/v1/manifest/f9c1bf9ffd6ac86b6173a7c169ff
 https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
 #EXTINF:-1 tvg-id="KDFWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="News",FOX 4 Dallas / Fort Worth TX (KDFW) (720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KDFW-Monetizer.m3u8
-#EXTINF:-1 tvg-id="KERADT1.us" tvg-logo="https://i.imgur.com/DvpA4PG.png" group-title="News",PBS Dallas TX (KERA) (1080p)
-https://keradt.lls.pbs.org/out/v1/8dd50e7e0ee24d4e8a0812872f332a2c/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",ABC News (720p)
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
