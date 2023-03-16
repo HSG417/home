@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="WFAADT1.us" tvg-logo="https://i.imgur.com/3dK1ocU.png" group-title="News",ABC 8 Dallas TX (WFAA) (1080p)
-https://livevideo.tegnadigital.com/wfaa/v1/manifest/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WFAA/53abfeba-2817-4330-bdf8-6dfe5ca5e09e/0.m3u8
+https://livevideo.tegnadigital.com/wfaa/v1/manifest/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WFAA/6dd07ce4-b615-4149-aca0-3f7789144dea/0.m3u8
 #EXTINF:-1 tvg-id="CBSNewsDFW.us" tvg-logo="https://i.imgur.com/PWXK33U.png" group-title="News",CBS News Dallas Ft Worth (720p)
 https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
 #EXTINF:-1 tvg-id="KDFWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="News",FOX 4 Dallas / Fort Worth TX (KDFW) (720p)
